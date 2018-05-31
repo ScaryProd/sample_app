@@ -1,0 +1,83 @@
+[33mcommit ad7c547d893e0aa0fc7bcb5d9ae7627bc71cb131[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31mheroku/master[m[33m, [m[1;32madvanced-login[m[33m)[m
+Author: alvariux23 <a_fsantana@hotmail.com>
+Date:   Thu May 31 11:01:12 2018 -0500
+
+    Implement advanced login
+
+[33mcommit fff5d2869abbc7ea402c2e3be8b3b86dd6c8de47[m
+Author: alvariux23 <a_fsantana@hotmail.com>
+Date:   Wed May 30 14:04:57 2018 -0500
+
+    Fixing heroku
+
+[33mcommit a81be88460fccf2ae9917ff96a34dddcb940550c[m[33m ([m[1;32mbasic-login[m[33m)[m
+Author: alvariux23 <a_fsantana@hotmail.com>
+Date:   Wed May 30 13:53:56 2018 -0500
+
+    Implement basic login
+
+[33mcommit 2d2c5f8710dada08e51b6f73baeb03b252997aa7[m
+Author: alvariux23 <a_fsantana@hotmail.com>
+Date:   Wed May 30 12:34:55 2018 -0500
+
+    Use SSL and the Puma webserver in production
+
+[33mcommit 00958499d38309e60e38fc491dc25872cb5882b0[m[33m ([m[1;32msign-up[m[33m)[m
+Author: alvariux23 <a_fsantana@hotmail.com>
+Date:   Wed May 30 12:29:01 2018 -0500
+
+    Finish user signup
+
+[33mcommit b097b667f78e17f7e71c937c2a28df42274dbdf6[m[33m ([m[1;32mmodeling-users[m[33m)[m
+Author: alvariux23 <a_fsantana@hotmail.com>
+Date:   Tue May 29 13:35:21 2018 -0500
+
+    Make a basic User Model (including secure passwords)
+
+[33mcommit 639635168294d8f016aa6f4e8368d534860bb916[m[33m ([m[1;32mfilling-in-layout[m[33m)[m
+Author: Alvaro Santana <alvaro.santana23@gmail.com>
+Date:   Mon May 28 12:53:33 2018 -0500
+
+    Finish layout and routes
+
+[33mcommit dd76be73eed4c45e624a24c3cdcd0b35e57dae35[m[33m ([m[1;32mrails-flavored-ruby[m[33m)[m
+Author: Alvaro Santana <alvaro.santana23@gmail.com>
+Date:   Mon May 28 10:06:26 2018 -0500
+
+    Add a full_title helper
+
+[33mcommit 2e8ab590113b814fdfcc52826e1f85274ce5a9d3[m
+Author: Alvaro Santana <alvaro.santana23@gmail.com>
+Date:   Thu May 24 14:44:17 2018 -0500
+
+    README now includes heroku
+
+[33mcommit 71f0caa6b47983be49d71c01a77bf35eac4f0de6[m[33m ([m[1;32mstatic-pages[m[33m)[m
+Author: Alvaro Santana <alvaro.santana23@gmail.com>
+Date:   Thu May 24 14:41:33 2018 -0500
+
+    Finish Static pages
+
+[33mcommit cd71d8544a7769d929642aeafda83174f7d7debd[m[33m ([m[1;31morigin/static-pages[m[33m)[m
+Author: Alvaro Santana <alvaro.santana23@gmail.com>
+Date:   Thu May 24 13:20:00 2018 -0500
+
+    Add a Static Pages controller
+
+[33mcommit 1c2ce296d765729864a24072d6bf7eff3d9545d2[m
+Author: Alvaro Santana <alvaro.santana23@gmail.com>
+Date:   Thu May 24 13:04:29 2018 -0500
+
+    added hello page for heroku
+
+[33mcommit 356d127cc0e07c82af92342f8a9101011515b1e7[m
+Author: Alvaro Santana <alvaro.santana23@gmail.com>
+Date:   Thu May 24 12:55:03 2018 -0500
+
+    Improve the README
+
+[33mcommit 6071d0a4534a268ab2a110e04dfd61cd73acdb9a[m
+Author: Alvaro Santana <alvaro.santana23@gmail.com>
+Date:   Thu May 24 12:49:52 2018 -0500
+
+    Initialize repository
